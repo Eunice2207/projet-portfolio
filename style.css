@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Roboto";
+}
+header nav {
+    background-color: pink;
+    padding: 30px;
+    margin-right: 20px;
+    text-align: center;
+    position: sticky;
+    top: 0;
+
+}
+header nav ul li {
+    display: inline;
+    margin-right: 50px;
+}
+header a {
+    text-decoration: none;
+    background-color: pink;
+}
+
+h1 {
+    margin: 10px 0 5px 0;
+    text-align: center;
+    color: #1F4529;
+}
+.Akwaba {
+    text-align: center;
+    background-color: pink;
+}
+.pourmoi {
+    text-align: center;
+  background-color: pink ; 
+  margin: 10px 0 10px 0; 
+}
+header nav ul li a:hover {
+    color: black;
+
+}
+
+footer {
+    background-color:pink ;
+    color: #1F4529 ;
+    text-align: center;
+    padding: 20px;
+    font-size: x-large;
+}
+
+form label{
+    display: block;
+    margin-top: 10px;
+    font-weight: bold;
+}
+form input {
+    width: 50%;
+    padding: 10px;
+    margin-top: 5px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+textarea {
+    width: 50%;
+    padding: 10px;
+    margin-top: 5px;
+    border: 1px solid black;
+    border-radius: 8px;
+
+}
